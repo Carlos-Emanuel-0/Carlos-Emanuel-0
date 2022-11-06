@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Carlos Emanuel
-🌱 Estudando JavaScript
+🌱 Estudando HTML, CSS e JavaScript.
 
 <div align="center">
   <a href="https://github.com/Carlos-Emanuel-0">
